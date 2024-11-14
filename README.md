@@ -1,6 +1,7 @@
 # cafe-gourmet
 
 Landing Page - Cafeteria Gourmet ☕
+
 Este é o projeto de uma landing page desenvolvida para uma cafeteria gourmet, focada em oferecer uma experiência única e sofisticada para amantes de café e gastronomia. A página foi criada para capturar a essência do ambiente, apresentando a história, o cardápio e as informações de contato de forma elegante e intuitiva.
 
 🔗 Visualize o Projeto
