@@ -22,14 +22,24 @@ CSS3 para a estilização e layout responsivo.
 JavaScript para interação e dinâmica na navegação.
 
 📦 Estrutura do Projeto
+
 📁 cafeteria-landing-page
+
 ├── 📄 index.html
+
 ├── 📁 css
+
 │   └── 📄 style.css
+
 ├── 📁 js
+
 │   └── 📄 script.js
+
 └── 📁 assets
+
     ├── 📁 images
+
+    
     └── 📁 icons
     
 🎨 Créditos
