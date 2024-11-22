@@ -54,7 +54,7 @@ a.comprar {
   color: #FFFFFF;
 }
 
-a.comprar:hover{
+a.comprar:hover {
   background-color: #D6995B;
   cursor: pointer;
 }
@@ -75,7 +75,7 @@ a.comprar:hover{
 }
 
 
-#home{
+#home {
   display: flex;
   width: 100vw;
   height: 80vh;
@@ -84,30 +84,75 @@ a.comprar:hover{
   background-position: center;
   background-repeat: no-repeat;
   flex-direction: column;
-  justify-content:center;
+  justify-content: center;
 }
 
-#home h1{
+#home h1 {
   color: #D6995B;
 }
 
-#home p{
+#home p {
   color: #FFFFFF;
   width: 35%;
   font-size: 1.5em;
   text-align: justify;
 }
 
-#home .button-comprar{
+#home .button-comprar {
   width: 10vw;
   background-color: #D6995B;
   color: white;
 }
 
-#home .button-comprar:hover{
+#home .button-comprar:hover {
   cursor: pointer;
 }
 
+.imgInformativa1 img {
+  width: 100%;
+  height: 100%;
+}
+
+.imgInformativa1{
+  border-radius: 10px;
+ 
+}
+
+#sobre{
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+}
+
+.sobre-imagens{
+  width: 50vw;
+}
+
+.sobre-texto{
+  width: 50vw;
+  color: white;
+  margin-right: 100px;
+}
+
+.sobre-texto p{
+  width: 45vw;
+
+}
+
+
+.imgInformativa2 img{
+  width: 100%;
+  height: 100%;
+}
+
+.imgInformativa2{
+  border-radius: 10px;
+  padding-top: 40px;
+  padding-left: 30px ;
+  
+}
 
 
 
